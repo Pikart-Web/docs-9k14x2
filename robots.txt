@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-plwnm7.bokupaybymobile.com/sitemap.xml
